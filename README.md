@@ -1,2 +1,2 @@
 # Repositorio-Henry
-Este es un nuevo aprendiaje para llegar hacer un excelente programador
+Este es un nuevo aprendizaje para llegar hacer un excelente programador
