@@ -1,2 +1,2 @@
 # Repositorio-Henry
-comenzando los primeros pasos de creaciones de repositorios
+Este es un nuevo aprendiaje para llegar hacer un excelente programador
